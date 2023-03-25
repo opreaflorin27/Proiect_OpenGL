@@ -1,0 +1,33 @@
+﻿  main.cpp
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(30,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(76,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(79,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(80,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(81,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(82,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(83,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(84,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(87,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(88,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(91,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(92,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(93,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(94,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(95,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(98,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(99,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(100,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(103,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(104,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(105,31): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(106,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(173,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(186,7): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(185,7): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(198,7): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(196,7): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(209,7): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(208,7): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(360,30): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\oprea\Downloads\Proiect OpenGL CAG\Proiect OpenGL CAG\main.cpp(369,34): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Proiect OpenGL CAG.vcxproj -> C:\Users\oprea\Downloads\Proiect OpenGL CAG\x64\Debug\Proiect OpenGL CAG.exe
